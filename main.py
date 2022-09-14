@@ -8,4 +8,4 @@ def App():
 
 App()
 
-eel.start('index.html', size=(200,300))
+eel.start('index.html', size=(300,200))
