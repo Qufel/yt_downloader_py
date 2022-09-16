@@ -1,2 +1,4 @@
-import tkinter
+import gui
 
+#runs gui
+gui.App()
